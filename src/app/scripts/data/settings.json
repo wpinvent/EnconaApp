@@ -1,0 +1,14 @@
+{
+	"version": "0.9.r.54321",
+	"mode": "dev",
+	"services": {
+		"dev": {
+			"recipes": "scripts/data/recipes.json",
+			"products": "scripts/data/products.json"
+		},
+		"production": {
+			"recipes": "http://url.to.remote.service",
+			"products": "http://url.to.remote.service"
+		}
+	}
+}

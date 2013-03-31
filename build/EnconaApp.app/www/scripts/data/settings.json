@@ -1,0 +1,12 @@
+{
+	"version": "0.9.r.54321",
+	"mode": "dev",
+	"services": {
+		"dev": {
+			"data": "/path/to/local/json"
+		},
+		"production": {
+			"data": "http://url.to.remote.service"
+		}
+	}
+}

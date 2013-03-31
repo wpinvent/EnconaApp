@@ -1,0 +1,35 @@
+# onDeviceReady: running on a device: false (undefined, #undefined)
+# start: (undefined, #undefined)
+# handleIndexRoute: (undefined, #undefined)
+# initialize: (undefined, #undefined)
+# onRender: (undefined, #undefined)
+# onShow: (undefined, #undefined)
+CACHE MANIFEST
+
+# Time: Sat Mar 30 2013 12:36:23 GMT+0000 (GMT)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /usr/local/share/npm/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+scripts/d84a87b8.amd-app.js
+scripts/libs/38b1ec58.cordova-2.5.0.js
+styles/5182702e.index.css
+
+NETWORK:
+*

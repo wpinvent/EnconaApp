@@ -1,0 +1,35 @@
+2013-03-30 10:47:24.325 EnconaApp[7943:18e03] Multi-tasking -> Device: YES, App: YES
+2013-03-30 10:47:24.542 EnconaApp[7943:18e03] Resetting plugins due to page load.
+2013-03-30 10:47:24.810 EnconaApp[7943:18e03] Finished load of: file:///Users/iwatson/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/6BBC5A09-EF49-4EB8-B736-DDD393FDE7D4/EnconaApp.app/www/index.html
+2013-03-30 10:47:24.837 EnconaApp[7943:18e03] [LOG] Received Event: deviceready
+2013-03-30 12:36:44.820 EnconaApp[12018:18e03] Multi-tasking -> Device: YES, App: YES
+2013-03-30 12:36:44.959 EnconaApp[12018:18e03] Resetting plugins due to page load.
+2013-03-30 12:36:45.179 EnconaApp[12018:18e03] Finished load of: file:///Users/iwatson/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/6BBC5A09-EF49-4EB8-B736-DDD393FDE7D4/EnconaApp.app/www/index.html
+2013-03-30 12:36:45.209 EnconaApp[12018:18e03] [LOG] Received Event: deviceready
+2013-03-30 12:37:43.429 EnconaApp[12266:18e03] Multi-tasking -> Device: YES, App: YES
+2013-03-30 12:37:43.499 EnconaApp[12266:18e03] Resetting plugins due to page load.
+2013-03-30 12:37:43.610 EnconaApp[12266:18e03] Finished load of: file:///Users/iwatson/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/6BBC5A09-EF49-4EB8-B736-DDD393FDE7D4/EnconaApp.app/www/index.html
+2013-03-30 12:37:43.633 EnconaApp[12266:18e03] [LOG] onDeviceReady: running on a device: true
+2013-03-30 12:37:43.634 EnconaApp[12266:18e03] [LOG] start:
+2013-03-30 12:37:43.635 EnconaApp[12266:18e03] [LOG] handleIndexRoute:
+2013-03-30 12:37:43.652 EnconaApp[12266:18e03] [LOG] initialize:
+2013-03-30 12:37:43.653 EnconaApp[12266:18e03] [LOG] onRender:
+2013-03-30 12:37:43.653 EnconaApp[12266:18e03] [LOG] onShow:
+2013-03-30 12:37:50.880 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-30 12:37:55.258 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-30 12:37:58.314 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-30 12:38:01.051 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-30 12:38:09.199 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:21:56.521 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:01.403 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:02.759 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:03.389 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:03.919 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:04.374 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:21.480 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:22.106 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:30.697 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:31.363 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:31.810 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:32.433 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-03-31 10:22:33.530 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
