@@ -33,3 +33,98 @@
 2013-03-31 10:22:31.810 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
 2013-03-31 10:22:32.433 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
 2013-03-31 10:22:33.530 EnconaApp[12266:18e03] [LOG] Hello App (from HomeView)
+2013-04-01 13:42:37.001 EnconaApp[17361:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-01 13:42:37.080 EnconaApp[17361:18e03] Resetting plugins due to page load.
+2013-04-01 13:42:37.321 EnconaApp[17361:18e03] Finished load of: file:///Users/iwatson/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/6BBC5A09-EF49-4EB8-B736-DDD393FDE7D4/EnconaApp.app/www/index.html
+2013-04-01 13:42:37.346 EnconaApp[17361:18e03] [LOG] onDeviceReady: running on a device: true
+2013-04-01 13:42:37.347 EnconaApp[17361:18e03] [LOG] start:
+2013-04-01 13:42:37.357 EnconaApp[17361:18e03] [LOG] handleIndexRoute:
+2013-04-01 13:42:37.358 EnconaApp[17361:18e03] [LOG] initialize:
+2013-04-01 13:42:37.359 EnconaApp[17361:18e03] [LOG] onRender:
+2013-04-01 13:42:37.360 EnconaApp[17361:18e03] [LOG] onShow:
+2013-04-01 13:42:41.355 EnconaApp[17361:18e03] [LOG] handleRecipesRoute:
+2013-04-01 13:42:41.357 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.357 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.379 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.380 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.381 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.381 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.382 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.383 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.383 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.384 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.384 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.385 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.386 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.386 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.387 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.387 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.388 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.389 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.389 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.390 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.390 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:41.391 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.077 EnconaApp[17361:18e03] [LOG] handleProductsRoute:
+2013-04-01 13:42:43.078 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.078 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.097 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.098 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.099 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.100 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.100 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.101 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.101 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.102 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.103 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.103 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.104 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.104 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.105 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.106 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.106 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.107 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.107 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.108 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.109 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.109 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.110 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.110 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.111 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.112 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.112 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:43.113 EnconaApp[17361:18e03] [LOG] initialize: 
+2013-04-01 13:42:44.636 EnconaApp[17361:18e03] [LOG] handleSocialRoute:
+2013-04-01 13:42:48.007 EnconaApp[17361:18e03] [LOG] handleIndexRoute:
+2013-04-01 13:42:48.008 EnconaApp[17361:18e03] [LOG] initialize:
+2013-04-01 13:42:48.009 EnconaApp[17361:18e03] [LOG] onRender:
+2013-04-01 13:42:48.009 EnconaApp[17361:18e03] [LOG] onShow:
+2013-04-01 13:42:49.957 EnconaApp[17361:18e03] [LOG] Hello App (from HomeView)
+2013-04-01 13:42:51.307 EnconaApp[17361:18e03] [LOG] Hello App (from HomeView)
+2013-04-01 13:42:52.442 EnconaApp[17361:18e03] [LOG] Hello App (from HomeView)
+2013-04-01 13:43:03.435 EnconaApp[17361:18e03] [LOG] Hello App (from HomeView)
+2013-04-01 13:43:07.605 EnconaApp[17361:18e03] [LOG] Hello App (from HomeView)
+2013-04-01 13:43:18.086 EnconaApp[17361:18e03] [LOG] Hello App (from HomeView)
+2013-04-02 00:14:18.908 EnconaApp[21914:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-02 00:14:19.144 EnconaApp[21914:18e03] Resetting plugins due to page load.
+2013-04-02 00:14:19.482 EnconaApp[21914:18e03] Finished load of: file:///Users/iwatson/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/6BBC5A09-EF49-4EB8-B736-DDD393FDE7D4/EnconaApp.app/www/index.html
+2013-04-02 00:14:19.510 EnconaApp[21914:18e03] [LOG] onDeviceReady: running on a device: true
+2013-04-02 00:14:19.511 EnconaApp[21914:18e03] [LOG] start:
+2013-04-02 00:14:19.529 EnconaApp[21914:18e03] [LOG] handleIndexRoute:
+2013-04-02 00:14:19.530 EnconaApp[21914:18e03] [LOG] initialize:
+2013-04-02 00:14:19.531 EnconaApp[21914:18e03] [LOG] onRender:
+2013-04-02 00:14:19.531 EnconaApp[21914:18e03] [LOG] onShow:
+2013-04-02 00:14:43.077 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:49.102 EnconaApp[21914:18e03] [LOG] handleRecipesRoute:
+2013-04-02 00:14:56.940 EnconaApp[21914:18e03] [LOG] handleProductsHomeRoute:
+2013-04-02 00:14:56.941 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:56.942 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:58.721 EnconaApp[21914:18e03] [LOG] handleProductsRoute
+2013-04-02 00:14:58.722 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:58.723 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:58.723 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:58.724 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:58.725 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:14:58.725 EnconaApp[21914:18e03] [LOG] initialize: 
+2013-04-02 00:15:06.246 EnconaApp[21914:18e03] [LOG] handleRecipesRoute:
+2013-04-02 00:15:13.771 EnconaApp[21914:18e03] [LOG] handleRecipesRoute:

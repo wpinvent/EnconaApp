@@ -1,0 +1,37 @@
+#chilli { 
+    position: relative;
+    float: left;
+    width: 113px;
+    height: 207px; 
+}
+
+#graphic, #mask { 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#graphic {
+    background: url(images/chilli-graphic.png) 0 -20px;
+}
+
+#mask {
+    -webkit-mask-box-image: url(images/chilli-mask.png);  
+}
+
+#background {
+    position: relative;
+    background-color: red; 
+}
+
+#range { 
+    float: left;
+    width: 20px; 
+    height: 100px; 
+    margin: 0; 
+    padding: 0;
+    -webkit-appearance: slider-vertical; 
+    color: #00c; 
+}
