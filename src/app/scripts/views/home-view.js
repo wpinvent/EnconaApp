@@ -22,28 +22,22 @@ function($, _, Backbone, App, template) {
 
 		// Map events from view's element (this.el) to view handlers
 		events: {
-			'click button': 'handleButtonClick'
+			/*'click button': 'handleButtonClick'*/
 		},
 
 		// Constructor function, called on initialization
 		initialize: function() {
-
-			// This is essentially the constructor and is called on instantiation
-			console.log('initialize:' /*, this.$el */);
+			// console.log('initialize:' /*, this.$el */);
 		},
 
 		onRender: function() {
 
-			console.log('onRender:');
+			// console.log('onRender:');
 		},
 
 		onShow: function() {
 
-			console.log('onShow:');
-		},
-
-		handleButtonClick: function() {
-			App.vent.trigger('test', 'Hello App (from HomeView)');
+			// console.log('onShow:');
 		}
 	});
 

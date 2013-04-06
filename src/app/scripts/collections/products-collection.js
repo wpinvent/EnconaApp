@@ -18,7 +18,7 @@ function(_, Backbone, ProductModel) {
 
 		initialize: function(models, options) {
 
-			console.log('initialize: ');
+			// console.log('initialize: ');
 
 			// Cache a reference to the settings model
 			this.settings = options.settings;

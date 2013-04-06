@@ -10,14 +10,15 @@ define([
 	'app',
 
 	// Templates
-	'text!templates/products-home.html'
+	'text!templates/recipe-instructions.html'
+
 ],
 
 function($, _, Backbone, Marionette, App, template) {
 
 	'use strict';
 
-	var ProductsHomeView = Backbone.Marionette.ItemView.extend({
+	var RecipeInstructionsView = Backbone.Marionette.ItemView.extend({
 
 		template: _.template(template),
 
@@ -26,5 +27,5 @@ function($, _, Backbone, Marionette, App, template) {
 		}
 	});
 
-	return ProductsHomeView;
+	return RecipeInstructionsView;
 });

@@ -16,8 +16,10 @@ function(Backbone, Marionette, controller) {
             '': 'handleIndexRoute',
             'recipes-home': 'handleRecipesHomeRoute',
             'recipes': 'handleRecipesRoute',
+            'recipe-detail/:recipe': 'handleRecipeDetailRoute',
             'products-home': 'handleProductsHomeRoute',
             'products/:category': 'handleProductsRoute',
+            'product-detail/:product': 'handleProductDetailRoute',
             'social': 'handleSocialRoute'
         }
     });

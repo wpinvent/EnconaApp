@@ -19,9 +19,12 @@ function($, _, Backbone, Marionette, SettingsModel, RecipesCollection, ProductsC
 
     /* TODO:
 
+        - Abstract showCollection method into base class
+
         Data:
             - Hardcoded product categories (think that's how it works on the site)
             - Is RE_Type the property which represents heat level?
+            - Why is the data URL encoded? Original data wasn't
     */
 
 

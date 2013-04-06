@@ -9,13 +9,19 @@ define([
 
 	// Views
 	'views/home-view',
+
 	'views/recipes-home-view',
 	'views/recipes-view',
+	'views/recipe-detail-view',
+
 	'views/products-home-view',
-	'views/products-view'
+	'views/products-view',
+	'views/product-detail-view',
+
+	'views/social-view'
 ],
 
-function($, _, Backbone, Marionette, App, HomeView, RecipesHomeView, RecipesView, ProductsHomeView, ProductsView) {
+function($, _, Backbone, Marionette, App, HomeView, RecipesHomeView, RecipesView, RecipeDetailView, ProductsHomeView, ProductsView, ProductDetailView, SocialView) {
 
 	'use strict';
 
@@ -55,7 +61,17 @@ function($, _, Backbone, Marionette, App, HomeView, RecipesHomeView, RecipesView
 			console.log('handleRecipesRoute:');
 
 			App.main.show(new RecipesView({
+				settings: App.models.settingsModel,
 				collection: App.getRecipesCollection()
+			}));
+		},
+
+		handleRecipeDetailRoute: function(recipe) {
+
+			console.log('handleRecipeDetailRoute:', recipe);
+
+			App.main.show(new RecipeDetailView({
+				model: App.getRecipesCollection().getByCid(recipe)
 			}));
 		},
 
@@ -80,15 +96,28 @@ function($, _, Backbone, Marionette, App, HomeView, RecipesHomeView, RecipesView
 
 		handleProductsRoute: function(category) {
 
-			console.log('handleProductsRoute', category);
+			console.log('handleProductsRoute:', category);
 
 			App.main.show(new ProductsView({
+				settings: App.models.settingsModel,
 				collection: App.getProductsCollection(category)
 			}));
 		},
 
+		handleProductDetailRoute: function(product) {
+
+			console.log('handleProductDetailView:', product);
+
+			App.main.show(new ProductDetailView({
+				model: App.getProductsCollection().getByCid(product)
+			}));
+		},
+
 		handleSocialRoute: function() {
+
 			console.log('handleSocialRoute:');
+
+			App.main.show(new SocialView());
 		}
 	};
 });

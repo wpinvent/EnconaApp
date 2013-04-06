@@ -27,8 +27,9 @@ function($, _, Backbone, Marionette, App, RecipeView, template) {
 
 		itemView: RecipeView,
 
-		initialize: function() {
-			console.log('initialize: ');
+		initialize: function(options) {
+			// console.log('initialize: ');
+			this.itemViewOptions = { settings: options.settings };
 		},
 
 		// Override default Marionette method so we can grab the products

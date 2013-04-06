@@ -10,21 +10,22 @@ define([
 	'app',
 
 	// Templates
-	'text!templates/products-home.html'
+	'text!templates/product-detail.html'
+
 ],
 
 function($, _, Backbone, Marionette, App, template) {
 
 	'use strict';
 
-	var ProductsHomeView = Backbone.Marionette.ItemView.extend({
+	var ProductDetailView = Backbone.Marionette.ItemView.extend({
 
 		template: _.template(template),
 
-		initialize: function() {
-			// console.log('initialize: ');
+		initialize: function(/*options*/) {
+			console.log('initialize:');
 		}
 	});
 
-	return ProductsHomeView;
+	return ProductDetailView;
 });

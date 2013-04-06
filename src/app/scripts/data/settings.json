@@ -1,14 +1,16 @@
 {
 	"version": "0.9.r.54321",
 	"mode": "dev",
+	"recipe-images": "http://www.enconasauces.co.uk/images/recipes/",
+	"product-images": "http://www.enconasauces.co.uk/images/products/",
 	"services": {
 		"dev": {
 			"recipes": "scripts/data/recipes.json",
 			"products": "scripts/data/products.json"
 		},
 		"production": {
-			"recipes": "http://url.to.remote.service",
-			"products": "http://url.to.remote.service"
+			"recipes": "http://www.tasteexplorers.co.uk/json_recipies.asp",
+			"products": "http://www.tasteexplorers.co.uk/json.asp"
 		}
 	}
 }
